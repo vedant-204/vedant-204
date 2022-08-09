@@ -9,7 +9,7 @@ Here are some quick things about me:
 - ⚡ Linux aficionado.
 <br>
 <p align="center" >
-    <img align="center" src="https://komarev.com/ghpvc/?username=vedant-204&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+    <img src="https://komarev.com/ghpvc/?username=vedant-204&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
     <a href="https://twitter.com/intent/follow?&screen_name=vedant2040"><img alt="Twitter" src="https://img.shields.io/twitter/follow/vedant2040?&logo=twitter" /></a>
 <a href="katyayana2003@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Email-Contact-indigo?logo=gmail" /></a>
 </p>
