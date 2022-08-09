@@ -13,9 +13,10 @@ Here are some quick things about me:
     <a href="https://twitter.com/intent/follow?&screen_name=vedant2040"><img alt="Twitter" src="https://img.shields.io/twitter/follow/vedant2040?&logo=twitter" /></a>
 <a href="katyayana2003@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Email-Contact-indigo?logo=gmail" /></a>
 </p>
-
+<p aling="center">
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vedant-204&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vedant-204&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vedant-204&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vedant-204&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vedant-204&theme=dracula)
+</p>
