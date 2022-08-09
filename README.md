@@ -2,7 +2,7 @@
 <!--
 **kevwan/kevwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<img align="right" src="https://assets6.lottiefiles.com/packages/lf20_xvy2d2zk.json">
+<img align="right" src="/assets/pic2.gif">
 Here are some quick things about me:
 
 - 🔭 DevOps Enthusiast.
