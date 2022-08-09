@@ -2,7 +2,9 @@
 <!--
 **kevwan/kevwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<img align="right" src="/assets/pic2.gif">
+<!--
+<img align="right" src="/assets/pic2.>
+-->
 Here are some quick things about me:
 
 - 🔭 DevOps Enthusiast.
