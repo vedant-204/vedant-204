@@ -1,7 +1,7 @@
 <img align="right" width="150px" src="/assets/pic1.png">
 
 # Hi there I am 👋
-##Vedantdev Katyayan
+## Vedantdev Katyayan
 
 <!--
 **kevwan/kevwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
