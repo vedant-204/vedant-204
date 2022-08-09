@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there 👋,<br> I am Vedantdev Katyayan</h1>
+<h1 align="center"> Hi there 👋, I am Vedantdev Katyayan</h1>
 <!--
 **kevwan/kevwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
