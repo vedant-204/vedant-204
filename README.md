@@ -27,3 +27,6 @@ Here are some quick things about me:
 
 <img alt="time-details" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vedant-204&theme=dracula">
 </p>
+
+[![@vedant404's Holopin board](https://holopin.io/api/user/board?user=vedant404)](https://holopin.io/@vedant404)
+
