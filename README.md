@@ -9,7 +9,7 @@ Here are some quick things about me:
 
 - 🔭 DevOps Enthusiast.
 - ⚡ Linux aficionado.
-- 爵  <a href = "https://im.vedant404.xyz"> xyz</a>
+- 爵  <a href = "https://vedant.carrd.co"> xyz</a>
 <br>
 <p align="center" >
     <img src="https://komarev.com/ghpvc/?username=vedant-204&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
